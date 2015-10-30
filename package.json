@@ -1,0 +1,9 @@
+{
+  "name": "oauth",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.1.2",
+    "mongoose": "^4.2.3"
+  }
+}
